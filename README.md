@@ -14,5 +14,5 @@ White Spaces are represented by "0".<br>
 Encoded text(characters) will be represented with corresponding numerical value 
 while Decoded text(numbers) will be represented with corresponding letters. <br>
 Input format for Decoding is numerical values separated by commas.<br>
-![Encode](/images/Encode.PNG) <br>
+![Encode](/images/encode.PNG) <br>
 ![Decode](/images/Decode.PNG)
